@@ -13,7 +13,6 @@
   "author": "Ajith",
   "license": "ISC",
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
     "antd": "^5.6.3",
     "bcrypt": "^5.1.0",
     "braintree": "^3.16.0",
